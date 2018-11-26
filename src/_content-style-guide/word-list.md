@@ -16,22 +16,22 @@ For most terms used on VA.gov, we use the standard American English spelling in 
 
 ### A
 
-- active duty: Hyphenate when it modifies a noun; do not capitalize (active-duty Servicemember) **[@Working Group, Beth, Danielle: VHA calls for "[service member](https://vaww.va.gov/webcom/style.asp)" in its comms; OPIA also uses "[service member](https://www.va.gov/opa/persona/active_duty.asp)"; not sure what VBA and NCA uses. Let's discuss. I'd like to use lowercase. ]**
+- active duty: Hyphenate when it modifies a noun; do not capitalize (active-duty Servicemember) **[@Working Group, Beth, Danielle: VHA calls for "[service member](https://vaww.va.gov/webcom/style.asp)" in its comms; OPIA also uses "[service member](https://www.va.gov/opa/persona/active_duty.asp)"; not sure what VBA and NCA uses. Let's discuss. I'd like to use lowercase. >>Danielle response: This is an interesting one, from my perspective. We currently initial cap Veteran, Servicemember, National Guard Soldier, and Reservist. This is consistent in recognizing each service role as a proper noun, and gives equal weight/prominence to both "Veteran" and "Servicemember" (which are very often linked together on the site in sentences such as "If you're a Veteran or Servicemember...." I lean toward keeping this consistency, but that's just my perspective of course.]**
 - accredited representative: Lowercase, and define on first appropriate instance as "a trained professional trusted to help with VA-related claims." Include the definition in another sentence, as a parenthetical, or set off with commas. Example:  "Get help from an accredited representative, a trained professional trusted to help with VA-related claims." 
 - advanced: Capitalize only when used as part of the branded term My HealtheVet Advanced. Otherwise lowercase.
 - Agent Orange: Define in body copy as "a toxic chemical used to clear trees and plants during the war." Include the definition in another sentence, as a parenthetical, or set off with commas. 
-- annual: Use "each year." [@Beth, Danielle - is "annual" really actually difficult for our customers to understand? Annual, annually -- these seem pretty common and easy to understand. (As opposed to terms like bi-annual, bi-weekly, bi-monthly which might be confused between 'twice per' or 'every other.'' ) ]
+- annual: Use "each year." [@Beth, Danielle - is "annual" really actually difficult for our customers to understand? Annual, annually -- these seem pretty common and easy to understand. (As opposed to terms like bi-annual, bi-weekly, bi-monthly which might be confused between 'twice per' or 'every other.'' ) **>>Danielle response: Whenever we have a simpler way of saying something, or a way to limit 3+-syllable words, we try to use that. This is such a case, though I think we could say "consider 'each year' depending on context" because there may be cases where "annual" works well.**]
 - apply: Use "file a claim for disability compensation" instead of "apply for benefits."
 - Armed Forces: Capitalize. **[@Beth, Danielle, me: VHA style actually calls for citing the different branches in a particular order. Adapt?]**
 - asbestos: Define in body copy as "toxic fibers, once used in many buildings and products." It can be defined in another sentence, as a parenthetical, or set off with commas. 
-- attending physician: Define it in the context of life insurance as "the doctor in charge of a Veteran's care." It can be defined in another sentence, as a parenthetical, or set off with commas. **[@Beth, Danielle - what about when we are talking directly TO the Veteran, since we should be using 2nd person more often now...?]**
+- attending physician: Define it in the context of life insurance as "the doctor in charge of a Veteran's care" (if speaking to the caregiver/representative) or "the doctor in charge of your care" (if speaking directly to the Veteran). It can be defined in another sentence, as a parenthetical, or set off with commas. **[@Beth, Danielle - what about when we are talking directly TO the Veteran, since we should be using 2nd person more often now...? >>Danielle response: This is referencing the Veteran in 3rd person because the instance we're referencing here is talking to the caregiver of a Veteran (so we are speaking in 2nd person, just to the caregiver rather than the Veteran). I've added some additional context to explain that.]**
 
 ### B
 
 - basic: Capitalize only when used as part of the branded term DS Logon Basic. Otherwise lowercase.
 - became ill: Use "got sick."
 - became worse: Use "got worse."
-- beneficiary: Use this term to mean the person picked to get the money from a life insurance policy when the policyholder dies. In other uses, avoid this term in favor of “family member.”  **[@Beth, Danielle - was this entry meant to convey 'define this as... x'?]**
+- beneficiary: Define as "the person you pick to receive the benefits from your policy." Use this term only when referring specifically to the person who gets life insurance benefits from a policy. In other uses, avoid this term in favor of “family member.”  **[@Beth, Danielle - was this entry meant to convey 'define this as... x'? >>Danielle response: I've edited this a bit. I believe we were getting at 2 things here - 1) definining the term and 2) Noting not to overuse it.]**
 - Benefits Delivery at Discharge (BDD) program: “Benefits” is plural.
 - blind or low-vision (not "blind or sight-impaired")
 
@@ -39,7 +39,7 @@ For most terms used on VA.gov, we use the standard American English spelling in 
 
 - can vs. may: Use "can" when meaning the ability or power to do something; use "may" when meaning the permission to do it.
 - caregiver (not caretaker)
-- Certificate of Release or Discharge from Active Duty (DD214) **[@Beth, Danielle - not sure what this entry means...? Also, should discuss as part of larger forms topic -- See VA forms/Form names section.]**
+- Certificate of Release or Discharge from Active Duty (DD214) **[@Beth, Danielle - not sure what this entry means...? Also, should discuss as part of larger forms topic -- See VA forms/Form names section. >>Danielle response: This is just showing the way we write out the form name so I agree]**
 - certifying official (as in VA certifying official) **[@Beth, Danielle - not sure what this entry means...?]**
 - Character of Discharge review process **[@Beth, Danielle - ditto ^]**
 - character of service (more casually referred to as "type of service"): This is a "block" or box on the VA Form DD214 that states one of the following: honorable, general/under honorable conditions, under other than honorable conditions, uncharacterized, or bad conduct.
@@ -50,7 +50,7 @@ For most terms used on VA.gov, we use the standard American English spelling in 
 - competent: Define as "of legal age and sound mind" in another sentence, as a parenthetical, or set off with commas.
 - conditions: On first mention use "illness" or "injury." For all other mentions, "condition" or "conditions" is OK. 
 - contamination: Define as "water that was found to have toxic chemicals in it." Can define in another sentence, as a parenthetical, or set off with commas. Exception: On the Camp Lejeune page, don't define this term. 
-- continuous: Use "without a break" instead, as in "without a break in service." **[@Beth, Danielle - is this calling for us to NOT ever use the word "continuous"?]**
+- continuous: Define this term to give context, either using a parenthetical definition or a separate defining sentence. Or, replace with "without a break." Examples: "You may be able to get benefits through the Post-9/11 GI Bill if you’ve served on active duty for at least 90 days, whether continuous (all at once) or interrupted (for shorter periods over time), after September 10, 2001." Or "You’ve served on active duty for at least 90 days—with or without a break in service—after September 10, 2001." **[@Beth, Danielle - is this calling for us to NOT ever use the word "continuous"? >> Danielle response: We actually do use "continuous" sometimes, but define it. So I've refined this entry to match what we currently do...if we want to choose one, that could work too.]**
 - convalescence: Use "rehab care" instead.
 - court-appointed guardian: Define as "a person the court decides is in charge of caring for another person who can't take care of him or herself." Include definition in another sentence, as a parenthetical, or set off with commas. 
 - court-martial: Lowercase, as in "general court-martial," "special court-martial," and "summary court-martial."
