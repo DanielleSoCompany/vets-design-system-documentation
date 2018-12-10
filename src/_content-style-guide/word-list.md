@@ -149,7 +149,7 @@ For most terms used on VA.gov, we use the standard American English spelling in 
 - life insurance: Do not hyphenate in the form of a compound adjective: “life insurance coverage.”
 - Loan Guaranty agent: Capped per SME. **[@Working Group & Editorial - Do we need parity for this term; do different agencies capitalize this term differently? @Beth, Danielle - can you provide more info on SME & rationale?]**
 - Loan Technician: Capitalize. **[@Working Group, Editorial -- To discuss. I recommend using standard American English -- lowercase unless it is being used as part of someone's title.]
-- log in / login: Two words as a verb. For all other parts of speach, it should be one word. **[@Beth, Danielle, Workng Group, Editorial - how do/should we use sign in/sign on/signon/ log in/ logon/ login? I have seen numerous variations and anticipate increasing inconsistencies if we don't codify this.]**
+- log in / login: Two words as a verb. For all other parts of speach, it should be one word. **[@Beth, Danielle, Workng Group, Editorial - how do/should we use sign in/sign on/signon/ log in/ logon/ login? I have seen numerous variations and anticipate increasing inconsistencies if we don't codify this.]** *DT response: We settled on sign on/sign in for Vets.gov and then brand consolidation.*
 - Loss of range of motion: Use "problems moving your body."
 
 ### M
@@ -161,7 +161,7 @@ For most terms used on VA.gov, we use the standard American English spelling in 
 - Million Veteran Program (MVP)
 - Montgomery GI Bill Active Duty
 - Montgomery GI Bill Selected Reserve
-- My Health*e*Vet: Italicize the "e." **[@Beth, Danielle, Working Group - I actually see that in body text, we do NOT italicize the 'e.' It appears italics only in the logo. For example on the [MHV site](www.myhealthevet.va.gov/mhv-portal-web/about-mhv) itself, body copy does NOT italicize the e. Another [MHV example](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/user-registration) - scroll down for body copy. Let's clarify/modify, as italics is pretty against common web best practice, especially for text links and so on.]**
+- My Health*e*Vet: Italicize the "e." **[@Beth, Danielle, Working Group - I actually see that in body text, we do NOT italicize the 'e.' It appears italics only in the logo. For example on the [MHV site](www.myhealthevet.va.gov/mhv-portal-web/about-mhv) itself, body copy does NOT italicize the e. Another [MHV example](https://www.myhealth.va.gov/mhv-portal-web/web/myhealthevet/user-registration) - scroll down for body copy. Let's clarify/modify, as italics is pretty against common web best practice, especially for text links and so on.]** *DT response: This is just a case of the style guide not being updated in the rush toward launch. MHV's brand used to call for this, and we got the direction that they'd changed this guidance right before launch...so we made the change, but hadn't updated the guide yet.*
 
 ### N
 
@@ -277,6 +277,13 @@ For most terms used on VA.gov, we use the standard American English spelling in 
 ### T
 
 - terminal illness: A sickness that can't be cured and that will likely result in the person’s death within a short period of time. **[@Beth, Danielle - is this calling for defining in body copy? Could you provide actual example on VA.gov?]**
+
+*DT response: I believe this definition was used in the life insurance section, but we'd wanted to replace this language with the language we use in the context of health care (see below):
+
+*Hospice care: Skilled caregivers who come into your home to provide comfort care to you and your family. You qualify for hospice care if you have a terminal condition (a condition that can't be treated), with less than 6 months to live, and you're no longer seeking treatment other than to ease pain.*
+
+
+
 - Track Your Claim (use this phrasing for the blue button). We should reach for consistency across the site--top nav "Manage" dropdown, blue button, text links, etc. **[@Beth, Danielle - not sure what entry means]**
 - trauma: an injury or deeply disturbing experience. **[@Beth, Danielle - ditto ^ - are you calling for term to be defined in body copy or to not use the word "trauma" and instead use "an injury or deeply disturbing..."?]**
 - TSGLI: Servicemembers' Group Life Insurance Traumatic Injury Protection **[@Beth, Danielle, Working Group - I'm confused - where is the T in TSGLI?]**
